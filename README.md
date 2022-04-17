@@ -25,7 +25,7 @@ Yann LeCun's cake analogy from NIPS 2016.
 
 ![](img/param_trend_1.png) 
 
-A now out-of-date graph of the increasing size of cutting-edge deep learning architectures over time.
+A now out-of-date graph of the increasing size of cutting-edge deep learning architectures over time from [4].
 
 ## References
 
